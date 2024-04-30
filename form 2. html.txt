@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+              
+                 <title> Registration form</h1>
+</head>
+<body>
+                 <h1>Student Registration form</h1>
+<form>
+                 <label>first name </label>
+                 <input type="text" required>
+                 <br>
+
+                <label>last name </label>
+                <input type ="text" required>
+                <br>
+                 
+                <label>email:</label>
+                <input type ="email" required>
+                <br>
+                
+                <label>password:</label>
+                <input type ="password" required>
+                <br>
+
+                <label>ree-type password :</label>
+                <input type="re-type password"required><br>
+                <br>
+ 
+                <label>contact:</label>
+                <input type ="text" max length="10"
+                <br>
+         
+                <label>Gender:</label>
+                <input type ="radio" name="gender">
+                <label for =male>male </label>
+                <input type="radio" name="gender">
+                <label type ="female"z>female</label>
+                <input type ="radio" name="gender">
+                <label>oyher</label><br>
+
+                <label>date of birth</label> 
+                <input type = "date">
+                <br>
+
+                <label for ="country">country:</label>
+                <select>
+                        <option value="cet">cet<option>
+                        <option value="comedk">comedk<option>
+                        <option value= "management">management<option>
+                        <!-- add more option as needed-->
+</select>
+<br>
+
+               <label>enquiry:</label>
+               <text area rows ="10" cols  = "50"></text area>
+               <br>
+<input type= "checkbox">
+<label>you can mail/callme </label>
+<br>
+<button type ="submit">submit</button>
+</form>
+</body>
+<html>
+
+
+
+
+
+
+
+
+
+
+                

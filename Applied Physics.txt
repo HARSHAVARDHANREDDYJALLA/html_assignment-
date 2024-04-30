@@ -1,0 +1,33 @@
+Applied Physics
+
+Electron hole pair generations explain withn diagram?
+what is the recombination ?
+exmaple for optoelectronic or application for o[ptoelectronics?
+
+
+
+question bank for prepratory exam:
+1) three components of red and laser 
+2)describe the different types of photodiodes adn their basic function 
+3)explain the role of population inversion and pumping in  laser operation 
+4)what is factor affecting the color and effciencyof laser and led  
+5)compare the working principle of pin and avalanche 
+6)Compare radiative and non-radiative recombination mechanism and how it is impact on highlights the device performance
+7)Adavantages and disadvantages of avalenche photo decetor
+8)Explain the simple terms how solar cells convert sunlight into electricity
+9)What is the process of electrons hole pair generation in semiconductor and how does it occur
+10)Briefly explain optoelectronic devices and its applications
+11)Characteristics of led's and how their contribute of effeincty converting electricity to light
+12)Different between intrisic adn extrinc semiconductor
+13)Describe the application determining the carrier concentraion and types in semiconductor
+14)Hall effect and its application
+15)Describe the working principal and vi charaterstics of pn junction diode
+16)Explain the different types of polarization in dielectrics using molecualr models
+17)Define terms doping carrier concenteration and fermi level
+18)vi charaterstics of zener diode
+19)Discuss the fermi level on carrier concentraion and temperature in semicondutor,How it is electrical behavior of the material 
+20)Define pn junction diode discuss the formation process and properties of the depleation region
+21)zener diode and pn juction applications
+
+
+
