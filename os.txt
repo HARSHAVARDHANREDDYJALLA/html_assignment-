@@ -1,0 +1,25 @@
+os
+1. EXPLAIN differnt ways of formatting text in ms word 
+2. Explain in different ways of creating a new word document 
+3. Explain how to insert graphical elements in ms word 
+4. Explain mail merge  with respect to emailing messages and envolps 
+5. Explain slide show features in microsoft power point 
+6. Explain in detail hown to create and managing references in  microsoft word
+7. Write this steps for the pfollowing 
+   a. randomly create 23 paragraphs and each paragraph 5 lines of  text 
+   b. align the text in neatt format with suitable headings 
+8. apply  appropriate bullets where ever applicable in the text 
+9. what are varies animations are presents in microsoft powerpoint 
+
+1. Explain varies categories of formaule  available in microsoft excel  
+2. create a student data base with 20 students having the flieds 
+   a. apply 20 students conditional formatting 
+   b. plot bar graph student registrer number vs marks scoring in each subject 
+   c. how to find sum and average in all subject 
+   d.  appropriate  to count no.of students  to ascored between 60 and 85 
+3. ecplain the various charts available in microsoft excel 
+4. short notes on pivot table in microsoft excel 
+5. hoe do u set the row height and column width  in in microsoft excel 
+6. Explain different catagories of number formatting cells 
+7. explain with example data valuaton in ms excel 
+8. 
