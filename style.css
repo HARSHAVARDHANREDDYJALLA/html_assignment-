@@ -1,4 +1,9 @@
-p
+ p
 { 
-color : blue;
+color : olive;
+}
+table
+{
+    border:0.3rem solid red;
+    border-coloumn: green;
 }
